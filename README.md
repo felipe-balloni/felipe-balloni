@@ -10,8 +10,8 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-balloni&hide=css" />
 
 ### 🤔 Would you like to find me?
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-balloni-ferreira//)](https://www.linkedin.com/in/felipe-balloni-ferreira//)
-[![E-mail](https://img.shields.io/badge/-E--mail-red?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:jfelipe.balloni@hotmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-balloni-ferreira//)](https://www.linkedin.com/in/felipe-balloni-ferreira)
+[![E-mail](https://img.shields.io/badge/-E--mail-red?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:felipe.balloni@hotmail.com)
 
 
 <!--
