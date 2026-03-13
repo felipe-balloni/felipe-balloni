@@ -1,6 +1,6 @@
 ### Hi, I`m Felipe Balloni👋
 
- I'm from Brazil 🇧🇷 and currently working as a full stack developer at Refuturiza. I'm a PHP, Laravel, Vue, React, NextJs developer and I'm always learning about these and related subjects.
+ I'm from Brazil 🇧🇷 and currently working as a full stack developer and tech lead. I'm a PHP and Laravel expert, Vue, React and NextJs developer and I'm always learning about these and related subjects.
 
  Always available to help professional colleagues, partnerships, projects and pair programming.
 
